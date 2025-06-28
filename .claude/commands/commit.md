@@ -1,0 +1,1 @@
+Stage all changes, commit it with appropriate comments
