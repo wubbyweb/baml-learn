@@ -1,0 +1,12 @@
+[project]
+name = "baml-learn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.55.0",
+    "baml-py>=0.90.2",
+    "openai>=1.93.0",
+    "python-dotenv>=1.1.1",
+]
