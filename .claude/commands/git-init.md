@@ -1,1 +1,0 @@
-initialize git repository, add .env, .venv and __pycache__ to .gitignore file, stage all changes, commit it as draft version
